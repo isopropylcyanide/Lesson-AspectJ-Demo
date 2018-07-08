@@ -6,6 +6,9 @@ import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class RandomListCreator {
 
 	private Stream<Integer> getRandomIntegerStream(Integer min, Integer max, Integer size) {
