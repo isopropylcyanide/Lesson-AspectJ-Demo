@@ -3,7 +3,7 @@
 
 
 #### What is it? ####
-A short project for teaching the new batch of students, AspectJ as part of the training under ![Accolite University](https://github.com/isopropylcyanide/Lesson-AspectJ-Demo/blob/master/README.md), where I work!
+A short project for teaching the new batch of students, AspectJ as part of the training under [Accolite University](http://accolite.com/career.html#AccoliteUniversity), where I work!
 
 #### What does it contain ####
 Each branch within the project represents the next set of assignments. Students are welcome to checkout to the next branch in case they're having trouble with the task
