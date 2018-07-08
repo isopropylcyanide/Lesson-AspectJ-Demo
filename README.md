@@ -14,7 +14,7 @@ Each branch within the project represents the next set of assignments. Students 
 Branch | Description
 ------------ | -------------
 master | Contains the initial scaffolding. Students have to implement a random list integer generator themselves of size N ranging from min to max.
-add_random | Default implementation of random list generator. Next task is to add a @Before advice to log the advice.
+add-random | Default implementation of random list generator. Next task is to add a @Before advice to log the advice.
 aspect-before | @Before advice has been implemented. Next task is to time their generator function.
 aspect-around | @Around advice has been implemented. Users can checkout to see their progress.
 
